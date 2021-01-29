@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "YzHMjUY8YLilqqytsed5ejulGvUZboTqAqiPb1Om9tvkymphJbroVd8oAvgDE5kjKSuDLMXr98sZjCCHRyw5IA==",
+  "success": true,
+  "projectFilePath": "D:\\tut\\Tut\\SpeechToText\\SpeechToText.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trong\\.nuget\\packages\\google.api.commonprotos\\2.0.0\\google.api.commonprotos.2.0.0.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\google.api.gax\\3.0.0\\google.api.gax.3.0.0.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\google.api.gax.grpc\\3.0.0\\google.api.gax.grpc.3.0.0.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\google.api.gax.grpc.grpccore\\3.0.0\\google.api.gax.grpc.grpccore.3.0.0.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\google.apis\\1.44.1\\google.apis.1.44.1.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\google.apis.auth\\1.44.1\\google.apis.auth.1.44.1.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\google.apis.core\\1.44.1\\google.apis.core.1.44.1.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\google.cloud.speech.v1\\2.0.0\\google.cloud.speech.v1.2.0.0.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\google.longrunning\\2.0.0\\google.longrunning.2.0.0.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\grpc.auth\\2.27.0\\grpc.auth.2.27.0.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\grpc.core\\2.27.0\\grpc.core.2.27.0.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\grpc.core.api\\2.27.0\\grpc.core.api.2.27.0.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

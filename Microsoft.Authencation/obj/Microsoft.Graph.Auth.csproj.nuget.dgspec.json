@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj": {}
+  },
+  "projects": {
+    "D:\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj": {
+      "version": "1.0.0-preview.5",
+      "restore": {
+        "projectUniqueName": "D:\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj",
+        "projectName": "Microsoft.Graph.Auth",
+        "projectPath": "D:\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj",
+        "packagesPath": "C:\\Users\\trong\\.nuget\\packages\\",
+        "outputPath": "D:\\tut\\Tut\\Microsoft.Authencation\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\trong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45",
+          "netstandard1.3"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\172.16.10.145\\gem-packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          },
+          "netstandard1.3": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "Microsoft.Graph.Core": {
+              "target": "Package",
+              "version": "[1.*, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.*, )"
+            },
+            "System.Security.Principal": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard1.3": {
+          "dependencies": {
+            "Microsoft.Graph.Core": {
+              "target": "Package",
+              "version": "[1.*, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.*, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "System.Security.Claims": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Principal": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
