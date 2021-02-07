@@ -1,4 +1,0 @@
-D:\tut\Tut\SpeechToText\bin\Debug\netcoreapp3.1\SpeechToText.exe
-D:\tut\Tut\SpeechToText\obj\Debug\netcoreapp3.1\SpeechToText.csprojAssemblyReference.cache
-D:\tut\Tut\SpeechToText\obj\Debug\netcoreapp3.1\SpeechToText.AssemblyInfoInputs.cache
-D:\tut\Tut\SpeechToText\obj\Debug\netcoreapp3.1\SpeechToText.AssemblyInfo.cs

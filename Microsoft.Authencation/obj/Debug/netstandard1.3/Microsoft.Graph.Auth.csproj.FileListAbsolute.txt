@@ -13,7 +13,6 @@ D:\tut\Tut\Microsoft.Authencation\bin\Debug\netstandard1.3\Microsoft.Graph.Auth.
 D:\tut\Tut\Microsoft.Authencation\bin\Debug\netstandard1.3\Microsoft.Graph.Auth.dll
 D:\tut\Tut\Microsoft.Authencation\bin\Debug\netstandard1.3\Microsoft.Graph.Auth.pdb
 D:\tut\Tut\Microsoft.Authencation\bin\Debug\netstandard1.3\Microsoft.Graph.Auth.xml
-D:\tut\Tut\Microsoft.Authencation\obj\Debug\netstandard1.3\Microsoft.Graph.Auth.csprojAssemblyReference.cache
 D:\tut\Tut\Microsoft.Authencation\obj\Debug\netstandard1.3\Microsoft.Graph.Auth.AssemblyInfoInputs.cache
 D:\tut\Tut\Microsoft.Authencation\obj\Debug\netstandard1.3\Microsoft.Graph.Auth.AssemblyInfo.cs
 D:\tut\Tut\Microsoft.Authencation\obj\Debug\netstandard1.3\Microsoft.Graph.Auth.csproj.CoreCompileInputs.cache

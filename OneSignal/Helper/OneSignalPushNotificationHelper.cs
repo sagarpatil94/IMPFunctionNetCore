@@ -36,7 +36,7 @@ namespace OneSignal.Helper
         }
         public static async Task<NotificationDislayedRequest> WebhooksDisplayed(NotificationDislayedRequest request)
         {
-
+            await Task.Yield();
             //TODO: code here
             return request;
         }
