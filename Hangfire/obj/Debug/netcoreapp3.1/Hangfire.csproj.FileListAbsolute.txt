@@ -1,0 +1,13 @@
+D:\tut\Tut\Hangfire\bin\Debug\netcoreapp3.1\Hangfire.exe
+D:\tut\Tut\Hangfire\bin\Debug\netcoreapp3.1\Hangfire.deps.json
+D:\tut\Tut\Hangfire\bin\Debug\netcoreapp3.1\Hangfire.runtimeconfig.json
+D:\tut\Tut\Hangfire\bin\Debug\netcoreapp3.1\Hangfire.runtimeconfig.dev.json
+D:\tut\Tut\Hangfire\bin\Debug\netcoreapp3.1\Hangfire.dll
+D:\tut\Tut\Hangfire\bin\Debug\netcoreapp3.1\Hangfire.pdb
+D:\tut\Tut\Hangfire\obj\Debug\netcoreapp3.1\Hangfire.csprojAssemblyReference.cache
+D:\tut\Tut\Hangfire\obj\Debug\netcoreapp3.1\Hangfire.AssemblyInfoInputs.cache
+D:\tut\Tut\Hangfire\obj\Debug\netcoreapp3.1\Hangfire.AssemblyInfo.cs
+D:\tut\Tut\Hangfire\obj\Debug\netcoreapp3.1\Hangfire.csproj.CoreCompileInputs.cache
+D:\tut\Tut\Hangfire\obj\Debug\netcoreapp3.1\Hangfire.dll
+D:\tut\Tut\Hangfire\obj\Debug\netcoreapp3.1\Hangfire.pdb
+D:\tut\Tut\Hangfire\obj\Debug\netcoreapp3.1\Hangfire.genruntimeconfig.cache
