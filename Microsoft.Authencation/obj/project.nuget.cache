@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tIxUI9nrVOUuc7vywTpw90B78adbtijVxo5fstIn6sKPJIG2AOmAIsoFNqYb5wWWQlw7bxI9r4HXlg4JgYSlkw==",
+  "dgSpecHash": "Z7Ycj7dDnXhioYZ/+Gj3Uo9gYO2pUb1ofMH1GUvignydOEEn+XamPeTx9ubKsIG2LmSV1I74QHV9rYe8MaJ0zA==",
   "success": true,
-  "projectFilePath": "D:\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj",
+  "projectFilePath": "D:\\projects\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
-    "C:\\Users\\trong\\.nuget\\packages\\microsoft.graph.core\\1.24.0\\microsoft.graph.core.1.24.0.nupkg.sha512",
-    "C:\\Users\\trong\\.nuget\\packages\\microsoft.identity.client\\4.25.0\\microsoft.identity.client.4.25.0.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\microsoft.graph.core\\1.25.1\\microsoft.graph.core.1.25.1.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\microsoft.identity.client\\4.29.0\\microsoft.identity.client.4.29.0.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",

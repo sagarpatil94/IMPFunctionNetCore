@@ -179,11 +179,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\tut\\Tut\\CreateQrCode\\CreateQrCode.csproj",
+      "projectUniqueName": "D:\\projects\\tut\\Tut\\CreateQrCode\\CreateQrCode.csproj",
       "projectName": "CreateQrCode",
-      "projectPath": "D:\\tut\\Tut\\CreateQrCode\\CreateQrCode.csproj",
+      "projectPath": "D:\\projects\\tut\\Tut\\CreateQrCode\\CreateQrCode.csproj",
       "packagesPath": "C:\\Users\\trong\\.nuget\\packages\\",
-      "outputPath": "D:\\tut\\Tut\\CreateQrCode\\obj\\",
+      "outputPath": "D:\\projects\\tut\\Tut\\CreateQrCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -194,7 +194,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "\\\\172.16.10.145\\gem-packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

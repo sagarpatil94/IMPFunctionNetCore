@@ -206,11 +206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\tut\\Tut\\Google Calendar\\Google Calendar.csproj",
+      "projectUniqueName": "D:\\projects\\tut\\Tut\\Google Calendar\\Google Calendar.csproj",
       "projectName": "Google Calendar",
-      "projectPath": "D:\\tut\\Tut\\Google Calendar\\Google Calendar.csproj",
+      "projectPath": "D:\\projects\\tut\\Tut\\Google Calendar\\Google Calendar.csproj",
       "packagesPath": "C:\\Users\\trong\\.nuget\\packages\\",
-      "outputPath": "D:\\tut\\Tut\\Google Calendar\\obj\\",
+      "outputPath": "D:\\projects\\tut\\Tut\\Google Calendar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -221,7 +221,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "\\\\172.16.10.145\\gem-packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

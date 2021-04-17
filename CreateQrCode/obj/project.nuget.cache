@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WkNu/XT8Fd5CSl5/5ranrAtRS82EHSdFaqdEzJvD43hQEhMA4kKDRur1wk1KsozNSKtTQcO2hHGtxyrWgjrWVw==",
+  "dgSpecHash": "FEGQETNoxxlqLaZzDPOyrbg9sBq4RT0uBrezu8/YC4+Y5e5+ERIkTyXms9UDe0rONR+KWmoZLK7SKro1xeqNiQ==",
   "success": true,
-  "projectFilePath": "D:\\tut\\Tut\\CreateQrCode\\CreateQrCode.csproj",
+  "projectFilePath": "D:\\projects\\tut\\Tut\\CreateQrCode\\CreateQrCode.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

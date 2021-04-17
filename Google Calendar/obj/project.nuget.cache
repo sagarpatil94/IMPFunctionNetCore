@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "32+FkByLpVIhm2Dq+7HMWTvJJkn5MjIFvXWeXZQ5UjDJuK2RFNehH8rnXA128QcMPVbjWHYwtUfQBkhLOLbWvw==",
+  "dgSpecHash": "Wx3fbcNiM/+ssK2uV1CtdhZhAc4+VfNmzPE83uOwnP5WHZ4D7mr/zg7lNKAXz5eVNtB0xA0EfNNLbd99TtlsmQ==",
   "success": true,
-  "projectFilePath": "D:\\tut\\Tut\\Google Calendar\\Google Calendar.csproj",
+  "projectFilePath": "D:\\projects\\tut\\Tut\\Google Calendar\\Google Calendar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trong\\.nuget\\packages\\google.apis\\1.50.0\\google.apis.1.50.0.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\google.apis.auth\\1.50.0\\google.apis.auth.1.50.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2j3yf6wov5Dam4/pTjFWBlBQtjRJjB/mO3zoyvgckRrmHnaVp3qr0RloykcchpkMOza+kvGluC7o5MZ+BNcwvg==",
+  "dgSpecHash": "+mFOcOT++JEzG3q/5I/sOQjs4yP72IUSRKwKKkFvaCeqK6QUMrt3Ks5LN3ZjnuXHioHZ86f3ImC6ulRMBHlNJA==",
   "success": true,
-  "projectFilePath": "D:\\tut\\Tut\\Smtp\\Smtp.csproj",
+  "projectFilePath": "D:\\projects\\tut\\Tut\\Smtp\\Smtp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

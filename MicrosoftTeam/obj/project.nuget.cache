@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "o/hZTeDt3RXQR4JU1I9WutcX09KG5l89nrZnGoKSIpwiHX/x0ncjp56x5e7YolThGESszf30dkbZJugrBXsX3A==",
+  "dgSpecHash": "b2Nj35ePBTjaHAtPIvT+V82QU8IvrzIpBuuprYbjugFZ44Nw9PPNgYwyA8wvuKoZ5f7nBoJgEtkra03qdDI1yg==",
   "success": true,
-  "projectFilePath": "D:\\tut\\Tut\\MicrosoftTeam\\MicrosoftTeam.csproj",
+  "projectFilePath": "D:\\projects\\tut\\Tut\\MicrosoftTeam\\MicrosoftTeam.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.graph\\3.23.0\\microsoft.graph.3.23.0.nupkg.sha512",
-    "C:\\Users\\trong\\.nuget\\packages\\microsoft.graph.core\\1.24.0\\microsoft.graph.core.1.24.0.nupkg.sha512",
-    "C:\\Users\\trong\\.nuget\\packages\\microsoft.identity.client\\4.25.0\\microsoft.identity.client.4.25.0.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\microsoft.graph.core\\1.25.1\\microsoft.graph.core.1.25.1.nupkg.sha512",
+    "C:\\Users\\trong\\.nuget\\packages\\microsoft.identity.client\\4.29.0\\microsoft.identity.client.4.29.0.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
@@ -86,8 +86,7 @@
     "C:\\Users\\trong\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\system.valuetuple\\4.3.0\\system.valuetuple.4.3.0.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\trong\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\trong\\.nuget\\packages\\microsoft.graph.auth\\1.0.0-preview.5\\microsoft.graph.auth.1.0.0-preview.5.nupkg.sha512"
+    "C:\\Users\\trong\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

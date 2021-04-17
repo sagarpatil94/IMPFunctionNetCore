@@ -4234,11 +4234,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\tut\\Tut\\HtmlToPdf\\HtmlToPdf.csproj",
+      "projectUniqueName": "D:\\projects\\tut\\Tut\\HtmlToPdf\\HtmlToPdf.csproj",
       "projectName": "HtmlToPdf",
-      "projectPath": "D:\\tut\\Tut\\HtmlToPdf\\HtmlToPdf.csproj",
+      "projectPath": "D:\\projects\\tut\\Tut\\HtmlToPdf\\HtmlToPdf.csproj",
       "packagesPath": "C:\\Users\\trong\\.nuget\\packages\\",
-      "outputPath": "D:\\tut\\Tut\\HtmlToPdf\\obj\\",
+      "outputPath": "D:\\projects\\tut\\Tut\\HtmlToPdf\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4249,7 +4249,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "\\\\172.16.10.145\\gem-packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

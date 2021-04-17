@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETFramework,Version=v4.5": {
-      "Microsoft.Graph.Core/1.24.0": {
+      "Microsoft.Graph.Core/1.25.1": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "6.0.1",
@@ -21,7 +21,7 @@
           "lib/net45/Microsoft.Graph.Core.dll": {}
         }
       },
-      "Microsoft.Identity.Client/4.25.0": {
+      "Microsoft.Identity.Client/4.29.0": {
         "type": "package",
         "frameworkAssemblies": [
           "Microsoft.CSharp",
@@ -136,7 +136,7 @@
           "lib/netstandard1.3/Microsoft.CSharp.dll": {}
         }
       },
-      "Microsoft.Graph.Core/1.24.0": {
+      "Microsoft.Graph.Core/1.25.1": {
         "type": "package",
         "dependencies": {
           "NETStandard.Library": "1.6.0",
@@ -152,7 +152,7 @@
           "lib/netstandard1.1/Microsoft.Graph.Core.dll": {}
         }
       },
-      "Microsoft.Identity.Client/4.25.0": {
+      "Microsoft.Identity.Client/4.29.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.5.0",
@@ -1550,10 +1550,10 @@
         "version.txt"
       ]
     },
-    "Microsoft.Graph.Core/1.24.0": {
-      "sha512": "6iwhucsg/zfXxDfTDjvpzNfX096wFcxCErlVtuE8KCXF6oYQCpI6FBsTcgyxirQRcDzaCo0/4z2/+oHbw9Bsgg==",
+    "Microsoft.Graph.Core/1.25.1": {
+      "sha512": "K06ws9CP5oUi5tFSrxYqyWXwnzjYogo/tqe79+9Ns3IV4CD/bMZumVfTvs9SzwcnkCilea24RWm9RLIW9dYl7Q==",
       "type": "package",
-      "path": "microsoft.graph.core/1.24.0",
+      "path": "microsoft.graph.core/1.25.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1568,14 +1568,14 @@
         "lib/xamarinios10/Microsoft.Graph.Core.xml",
         "lib/xamarinmac20/Microsoft.Graph.Core.dll",
         "lib/xamarinmac20/Microsoft.Graph.Core.xml",
-        "microsoft.graph.core.1.24.0.nupkg.sha512",
+        "microsoft.graph.core.1.25.1.nupkg.sha512",
         "microsoft.graph.core.nuspec"
       ]
     },
-    "Microsoft.Identity.Client/4.25.0": {
-      "sha512": "uuEYjhreDov/ntUu6+qex0meUBPJ85tCN3jBPKziNheiSzhKPn7466gcq2RJwFAXFdnIh8crsMinvk70YpTuog==",
+    "Microsoft.Identity.Client/4.29.0": {
+      "sha512": "Pr0zGK5UVOH1wNIMRVtakImDX0OWmI87HANvOQqnhahkeevVOZBnsw1QouEb5eZlLvMciuSaShuSz0806bmCvQ==",
       "type": "package",
-      "path": "microsoft.identity.client/4.25.0",
+      "path": "microsoft.identity.client/4.29.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1600,7 +1600,7 @@
         "lib/xamarinios10/Microsoft.Identity.Client.xml",
         "lib/xamarinmac20/Microsoft.Identity.Client.dll",
         "lib/xamarinmac20/Microsoft.Identity.Client.xml",
-        "microsoft.identity.client.4.25.0.nupkg.sha512",
+        "microsoft.identity.client.4.29.0.nupkg.sha512",
         "microsoft.identity.client.nuspec"
       ]
     },
@@ -5568,11 +5568,11 @@
   "project": {
     "version": "1.0.0-preview.5",
     "restore": {
-      "projectUniqueName": "D:\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj",
+      "projectUniqueName": "D:\\projects\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj",
       "projectName": "Microsoft.Graph.Auth",
-      "projectPath": "D:\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj",
+      "projectPath": "D:\\projects\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj",
       "packagesPath": "C:\\Users\\trong\\.nuget\\packages\\",
-      "outputPath": "D:\\tut\\Tut\\Microsoft.Authencation\\obj\\",
+      "outputPath": "D:\\projects\\tut\\Tut\\Microsoft.Authencation\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
@@ -5585,7 +5585,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "\\\\172.16.10.145\\gem-packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

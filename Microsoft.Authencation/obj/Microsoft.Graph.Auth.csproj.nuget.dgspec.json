@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj": {}
+    "D:\\projects\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj": {}
   },
   "projects": {
-    "D:\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj": {
+    "D:\\projects\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj": {
       "version": "1.0.0-preview.5",
       "restore": {
-        "projectUniqueName": "D:\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj",
+        "projectUniqueName": "D:\\projects\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj",
         "projectName": "Microsoft.Graph.Auth",
-        "projectPath": "D:\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj",
+        "projectPath": "D:\\projects\\tut\\Tut\\Microsoft.Authencation\\Microsoft.Graph.Auth.csproj",
         "packagesPath": "C:\\Users\\trong\\.nuget\\packages\\",
-        "outputPath": "D:\\tut\\Tut\\Microsoft.Authencation\\obj\\",
+        "outputPath": "D:\\projects\\tut\\Tut\\Microsoft.Authencation\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
@@ -24,7 +24,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "\\\\172.16.10.145\\gem-packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "00ZHHZ4qfHsf9Hi8N6S+VUsw9hHuR1tOwdvlZpMtv8MxO782IZqfAVIG5FWTO4WNVk2w2/lWuT161PFjKS8xuQ==",
+  "dgSpecHash": "FGYvZV8Uq7ohfLn07yjUpPu6TRz5/YdsIeTb+DZpS+o2yNHK2mI9rMpz01bRPBFn5uy8KgY2pRC7Vk+IgoKFHA==",
   "success": true,
-  "projectFilePath": "D:\\tut\\Tut\\OneSignal\\OneSignal.csproj",
+  "projectFilePath": "D:\\projects\\tut\\Tut\\OneSignal\\OneSignal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

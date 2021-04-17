@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4r9Q/n05TcdPXDVgeO4NhtXwoMg7f443g1qFHUJm10IDfQFbpDZK2Ik4PcyrQpUrfq29eE8VuqJK2JTIDFp1Rw==",
+  "dgSpecHash": "as+oYkn+Kbu9rNTuPrHnfm1Ikl9LjQIYm2zmzW3eTg6qGQzPesweuvI0y2LmtDD4q19VDwSSGPiAxqR/vCSoDw==",
   "success": true,
-  "projectFilePath": "D:\\tut\\Tut\\HtmlToPdf\\HtmlToPdf.csproj",
+  "projectFilePath": "D:\\projects\\tut\\Tut\\HtmlToPdf\\HtmlToPdf.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trong\\.nuget\\packages\\dinktopdf\\1.0.8\\dinktopdf.1.0.8.nupkg.sha512",
     "C:\\Users\\trong\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

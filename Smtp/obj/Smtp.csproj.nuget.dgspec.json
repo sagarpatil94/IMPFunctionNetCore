@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\tut\\Tut\\Smtp\\Smtp.csproj": {}
+    "D:\\projects\\tut\\Tut\\Smtp\\Smtp.csproj": {}
   },
   "projects": {
-    "D:\\tut\\Tut\\Smtp\\Smtp.csproj": {
+    "D:\\projects\\tut\\Tut\\Smtp\\Smtp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tut\\Tut\\Smtp\\Smtp.csproj",
+        "projectUniqueName": "D:\\projects\\tut\\Tut\\Smtp\\Smtp.csproj",
         "projectName": "Smtp",
-        "projectPath": "D:\\tut\\Tut\\Smtp\\Smtp.csproj",
+        "projectPath": "D:\\projects\\tut\\Tut\\Smtp\\Smtp.csproj",
         "packagesPath": "C:\\Users\\trong\\.nuget\\packages\\",
-        "outputPath": "D:\\tut\\Tut\\Smtp\\obj\\",
+        "outputPath": "D:\\projects\\tut\\Tut\\Smtp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "\\\\172.16.10.145\\gem-packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

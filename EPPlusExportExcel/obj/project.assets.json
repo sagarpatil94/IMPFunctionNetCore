@@ -4272,11 +4272,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\tut\\Tut\\EPPlusExportExcel\\EPPlusExportExcel.csproj",
+      "projectUniqueName": "D:\\projects\\tut\\Tut\\EPPlusExportExcel\\EPPlusExportExcel.csproj",
       "projectName": "EPPlusExportExcel",
-      "projectPath": "D:\\tut\\Tut\\EPPlusExportExcel\\EPPlusExportExcel.csproj",
+      "projectPath": "D:\\projects\\tut\\Tut\\EPPlusExportExcel\\EPPlusExportExcel.csproj",
       "packagesPath": "C:\\Users\\trong\\.nuget\\packages\\",
-      "outputPath": "D:\\tut\\Tut\\EPPlusExportExcel\\obj\\",
+      "outputPath": "D:\\projects\\tut\\Tut\\EPPlusExportExcel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4287,7 +4287,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "\\\\172.16.10.145\\gem-packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

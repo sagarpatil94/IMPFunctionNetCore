@@ -5289,11 +5289,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\tut\\Tut\\OneSignal\\OneSignal.csproj",
+      "projectUniqueName": "D:\\projects\\tut\\Tut\\OneSignal\\OneSignal.csproj",
       "projectName": "OneSignal",
-      "projectPath": "D:\\tut\\Tut\\OneSignal\\OneSignal.csproj",
+      "projectPath": "D:\\projects\\tut\\Tut\\OneSignal\\OneSignal.csproj",
       "packagesPath": "C:\\Users\\trong\\.nuget\\packages\\",
-      "outputPath": "D:\\tut\\Tut\\OneSignal\\obj\\",
+      "outputPath": "D:\\projects\\tut\\Tut\\OneSignal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5304,7 +5304,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "\\\\172.16.10.145\\gem-packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
