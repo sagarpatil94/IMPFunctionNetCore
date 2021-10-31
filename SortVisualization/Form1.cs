@@ -1,4 +1,5 @@
-﻿using SortVisualization.Entity;
+﻿using SortVisualization.Algorithms;
+using SortVisualization.Entity;
 using SortVisualization.Options;
 using System;
 using System.Collections.Generic;
@@ -73,11 +74,18 @@ namespace SortVisualization
                 }
             }
 
-            for(int i = 0; i < elements.Count; i++)
-            {
-                elements[i].Selected(graphic);
-                Thread.Sleep(1);
-            }
+            ElementHelper.CompletedList(elements, graphic);
+        }
+
+        private void btnQuickSort_Click(object sender, EventArgs e)
+        {
+            QuickSort.QuickSortAlgorithm(elements, 0, elements.Count - 1, graphic);
+            ElementHelper.CompletedList(elements, graphic);
+        }
+
+        private void btnGenerate_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

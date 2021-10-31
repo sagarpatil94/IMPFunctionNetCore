@@ -49,5 +49,15 @@ namespace SortVisualization
             elements[first].Value = elements[second].Value;
             elements[second].Value = tempValue;
         }
+
+        public static void CompletedList(List<Element> elements, Graphics graphic)
+        {
+
+            for (int i = 0; i < elements.Count; i++)
+            {
+                elements[i].Selected(graphic);
+                Thread.Sleep(1);
+            }
+        }
     }
 }

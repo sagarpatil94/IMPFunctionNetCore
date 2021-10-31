@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithms\QuickSort.cs" />
     <Compile Include="ElementHelper.cs" />
     <Compile Include="Entity\Element.cs" />
     <Compile Include="Form1.cs">
