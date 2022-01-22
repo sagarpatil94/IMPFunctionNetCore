@@ -57,6 +57,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13-Sort", "13-Sort", "{6541
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortVisualization", "SortVisualization\SortVisualization.csproj", "{F38DD780-E31F-4628-86ED-3FE42128CB6D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "14-Crawler", "14-Crawler", "{F37AE6BE-B311-456D-A707-C06D624F564F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crawler", "Crawler\Crawler.csproj", "{63BE313B-ABAB-46F6-9021-D0D72F9580EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -119,6 +123,10 @@ Global
 		{F38DD780-E31F-4628-86ED-3FE42128CB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F38DD780-E31F-4628-86ED-3FE42128CB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F38DD780-E31F-4628-86ED-3FE42128CB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63BE313B-ABAB-46F6-9021-D0D72F9580EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BE313B-ABAB-46F6-9021-D0D72F9580EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BE313B-ABAB-46F6-9021-D0D72F9580EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BE313B-ABAB-46F6-9021-D0D72F9580EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -138,6 +146,7 @@ Global
 		{62C3E91D-C290-4189-86AF-8C6EBAB8F9B9} = {2776D935-4EB0-4C63-A079-F4D04F7CAC73}
 		{B0B54127-E1C6-4057-A75F-41A28AF33AD0} = {225A7E77-29B9-4700-AA6E-4D828E973B40}
 		{F38DD780-E31F-4628-86ED-3FE42128CB6D} = {6541627B-9D7D-4A63-8A47-127789F0A556}
+		{63BE313B-ABAB-46F6-9021-D0D72F9580EE} = {F37AE6BE-B311-456D-A707-C06D624F564F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {88C1B60D-60B7-455F-A311-CEE59A19758C}
